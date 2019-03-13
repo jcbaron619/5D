@@ -1,0 +1,601 @@
+body
+{
+	height:4000px;
+}
+.top-container
+{
+	border-bottom:1px solid black;
+	text-align:center;
+	padding:10px;
+}
+
+.frontpage
+{
+	width:90%;
+}
+
+.pageturner
+{
+	color:red;
+	font-size:18px;
+}
+
+.heading1
+{
+	font-size:60px;
+}
+
+.author1
+{
+	font-size:19px;
+}
+
+.description1
+{
+	font-size:30px;
+}
+
+.middle-container
+{
+	height:650px;
+	border-bottom:1px solid black;
+	text-align:center;
+}
+
+.left-middlebox
+{
+	height:625px;
+	width:48%;
+	border-right:1px solid black;
+	display:inline-block;
+}
+
+.right-middlebox
+{
+	height:625px;
+	width:48%;
+	display:inline-block;
+}
+
+.trumphotels
+{
+	height:300px;
+	width:450px;
+}
+
+.newsdesk
+{
+	color:red;
+	font-size:18px;
+}
+
+.heading2
+{
+	font-size:45px;
+}
+
+.author2
+{
+	font-size:19px;
+}
+
+.description2
+{
+	font-size:30px;
+}
+
+.man
+{
+	height:300px;
+	width:450px;
+}
+
+.popmusic
+{
+	color:red;
+	font-size:18px;
+}
+
+.heading3
+{
+	font-size:45px;
+}
+
+.author3
+{
+	font-size:19px;
+}
+
+.description3
+{
+	font-size:30px;
+}
+
+.bottom-container
+{
+	height:325px;
+	border-bottom:1px solid black;
+	text-align:center;
+}
+
+.left-bottombox
+{
+	height:300px;
+	width:32%;
+	border-right:1px solid black;
+	display:inline-block;
+}
+
+.center-bottombox
+{
+	height:300px;
+	width:32%;
+	border-right:1px solid black;
+	display:inline-block;
+}
+
+.right-bottombox
+{
+	height:300px;
+	width:32%;
+	display:inline-block;
+}
+
+.culturedesk
+{
+	color:red;
+	font-size:18px;
+}
+
+.heading4
+{
+	font-size:38px;
+}
+
+.author4
+{
+	font-size:19px;
+}
+
+.description4
+{
+	font-size:25px;
+}
+
+.heading5
+{
+	font-size:38px;
+}
+
+.author5
+{
+	font-size:19px;
+}
+
+.description5
+{
+	font-size:25px;
+}
+
+.profiles
+{
+	color:red;
+	font-size:18px;
+}
+
+.heading6
+{
+	font-size:38px;
+}
+
+.author6
+{
+	font-size:19px;
+}
+
+.description6
+{
+	font-size:25px;
+}
+
+.page2-header
+{
+	width:40%;
+	margin:auto;
+	text-align:center;
+	font-size:40px;
+}
+
+.container1
+{
+	width:100%;
+	margin:auto;
+	overflow:auto;
+}
+
+.container1-left
+{
+	width:25%;
+	height:300px;
+	display:inline-block;
+	text-align:center;
+	vertical-align:top;
+}
+
+.bluebox1
+{
+	width:90%;
+	margin:auto;
+	background-color:blue;
+	font-size:20px;
+	color:white;
+	padding:10px;
+	margin-top:10px;
+	border-radius:10px;
+}
+
+.lefttext1
+{
+	color:red;
+	font-size:22px;
+	margin-left:190px;
+}
+
+.container1-center
+{
+	width:25%;
+	height:300px;
+	display:inline-block;
+	vertical-align:top;
+}
+
+.capital
+{
+	width:100%;
+	height:80%;
+}
+.container1-right
+{
+	width:49%;
+	height:300px;
+	display:inline-block;
+	vertical-align:top;
+}
+
+.bottom-header1
+{
+	margin-left:10px;
+	font-size:30px;
+}
+
+.bottom-author1
+{
+	margin-left:10px;
+	font-size:20px;
+}
+
+.bottom-description1
+{
+	margin-left:10px;
+	font-size:25px;
+	font-style:normal;
+}
+
+.container2
+{
+	width:100%;
+	margin:auto;
+	overflow:auto;
+}
+
+.container2-left
+{
+	width:25%;
+	height:300px;
+	display:inline-block;
+	text-align:center;
+	vertical-align:top;
+}
+
+.bluebox2
+{
+	width:90%;
+	margin:auto;
+	background-color:blue;
+	font-size:20px;
+	color:white;
+	padding:10px;
+	margin-top:10px;
+	border-radius:10px;
+}
+
+.lefttext2
+{
+	color:red;
+	font-size:22px;
+	margin-left:190px;
+}
+
+.container2-center
+{
+	width:25%;
+	height:300px;
+	display:inline-block;
+	vertical-align:top;
+}
+
+.suess
+{
+	width:100%;
+	height:80%;
+}
+
+.container2-right
+{
+	width:49%;
+	height:300px;
+	display:inline-block;
+	vertical-align:top;
+}
+
+.bottom-header2
+{
+	margin-left:10px;
+	font-size:30px;
+}
+
+.bottom-author2
+{
+	margin-left:10px;
+	font-size:20px;
+}
+
+.bottom-description2
+{
+	margin-left:10px;
+	font-size:25px;
+	font-style:normal;
+}
+
+.container3
+{
+	width:100%;
+	margin:auto;
+	overflow:auto;
+}
+
+.container3-left
+{
+	width:25%;
+	height:300px;
+	display:inline-block;
+	text-align:center;
+	vertical-align:top;
+}
+
+.bluebox3
+{
+	width:90%;
+	margin:auto;
+	background-color:blue;
+	font-size:20px;
+	color:white;
+	padding:10px;
+	margin-top:10px;
+	border-radius:10px;
+}
+
+.lefttext3
+{
+	color:red;
+	font-size:22px;
+	margin-left:190px;
+}
+
+.container3-center
+{
+	width:25%;
+	height:300px;
+	display:inline-block;
+	vertical-align:top;
+}
+
+.roe
+{
+	width:100%;
+	height:80%;
+}
+
+.container3-right
+{
+	width:49%;
+	height:300px;
+	display:inline-block;
+	vertical-align:top;
+}
+
+.bottom-header3
+{
+	margin-left:10px;
+	font-size:30px;
+}
+
+.bottom-author3
+{
+	margin-left:10px;
+	font-size:20px;
+}
+
+.bottom-description3
+{
+	margin-left:10px;
+	font-size:25px;
+	font-style:normal;
+}
+
+.container4
+{
+	width:100%;
+	margin:auto;
+	overflow:auto;
+}
+
+.container4-left
+{
+	width:25%;
+	height:300px;
+	display:inline-block;
+	text-align:center;
+	vertical-align:top;
+}
+
+.bluebox4
+{
+	width:90%;
+	text-align:right;
+	font-size:20px;
+	color:blue;
+	padding:10px;
+	margin-top:10px;
+	border-radius:10px;
+}
+
+.lefttext4
+{
+	color:red;
+	font-size:22px;
+	margin-left:190px;
+}
+
+.container4-center
+{
+	width:25%;
+	height:300px;
+	display:inline-block;
+	vertical-align:top;
+}
+
+.smarthome
+{
+	width:100%;
+	height:80%;
+}
+
+.container4-right
+{
+	width:49%;
+	height:300px;
+	display:inline-block;
+	vertical-align:top;
+}
+
+.bottom-header4
+{
+	margin-left:10px;
+	font-size:30px;
+}
+
+.bottom-author4
+{
+	margin-left:10px;
+	font-size:20px;
+}
+
+.bottom-description4
+{
+	margin-left:10px;
+	font-size:25px;
+	font-style:normal;
+}
+
+.container5
+{
+	width:100%;
+	margin:auto;
+	overflow:auto;
+}
+
+.container5-left
+{
+	width:25%;
+	height:300px;
+	display:inline-block;
+	text-align:center;
+	vertical-align:top;
+}
+
+.bluebox5
+{
+	width:90%;
+	text-align:right;
+	font-size:20px;
+	color:blue;
+	padding:10px;
+	margin-top:10px;
+	border-radius:10px;
+}
+
+.lefttext5
+{
+	color:red;
+	font-size:22px;
+	margin-left:190px;
+}
+
+.container5-center
+{
+	width:25%;
+	height:300px;
+	display:inline-block;
+	vertical-align:top;
+}
+
+.trumphotels2
+{
+	width:100%;
+	height:80%;
+}
+
+.container5-right
+{
+	width:49%;
+	height:300px;
+	display:inline-block;
+	vertical-align:top;
+}
+
+.bottom-header5
+{
+	margin-left:10px;
+	font-size:30px;
+}
+
+.bottom-author5
+{
+	margin-left:10px;
+	font-size:20px;
+}
+
+.bottom-description5
+{
+	margin-left:10px;
+	font-size:25px;
+	font-style:normal;
+}
+
+.bottom-footer
+{
+	width:40%;
+	height:100px;
+	margin:auto;
+	border:1.5px solid lightgrey;
+	border-radius:10px;
+	text-align:center;
+}
+
+.more-stories
+{
+	margin-top:35px;
+	color:grey;
+	font-size:20px;
+}
